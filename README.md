@@ -14,5 +14,6 @@ A simple flask rest api that allows urls shortening
 ```
 git clone ...
 pipenv install
-flask run
+pipenv shell
+python3 app.py
 ```
